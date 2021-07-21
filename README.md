@@ -10,6 +10,11 @@ SUMMER-MUSTARD (Summer season Multi-cross Urban Signalized Traffic Aggregated Re
 
 code gists:
 
-tramesino-core.ipynb - set of functions and analysis depicting the core functionality of TRAMESINO
+tramesino-core.ipynb - contains basic functions to implement the associative memory on traffic data at the core of TRAMESINO
 
-tramesino-spiking-processing.ipynb - set of functions and analysis depicting the core functionality of TRAMESINO
+tramesino-spiking-processing.ipynb - contains basic functions to implement the spiking neural network computational substrate for TRAMESINO
+
+sample data:
+
+tramesino_sample_data.csv - contains 24h of real-world traffic data recordings
+
